@@ -6,7 +6,8 @@ namespace CSharp_Learn
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string str1 = @"C:\Windows";
+            string str2 = "C:\\Windows";
         }
     }
 }
